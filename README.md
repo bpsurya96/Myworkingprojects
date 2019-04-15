@@ -15,3 +15,7 @@ In this file, I have used the Apriori Algorithms for the Recommendation problems
 #CustomerSegmentation.py
 
 In this File, I have used K means which is one of clustering Algorithms using customer DataSets.
+
+#Response Modeling
+
+Created the Response Modeling with Neural Network that understands from historical data of customer responses by campaigns.
